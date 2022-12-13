@@ -435,4 +435,4 @@ if selected == "Kontak":
     )
 
 
-    st.text("Whatsapp   : 0877-2555-3704            (Gimnastiar)")
+    st.text("Whatsapp   : 0877-2555-3704 (Gimnastiar)")
